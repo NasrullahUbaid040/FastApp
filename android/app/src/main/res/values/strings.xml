@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">fast</string>
+<!-- <string name="facebook_app_id">323059872724955</string>
+<string name="facebook_client_token">d8370ffa4577165c340e1f3620459cfa</string>     -->
+<!-- <string name="facebook_app_id">287544229823004</string>
+<string name="fb_login_protocol_scheme">fb287544229823004</string> 
+<string name="facebook_client_token">31ffc76283d90b519abc8d122c16fe32</string>     -->
+
+<string name="facebook_app_id">948217115759979</string>
+<string name="fb_login_protocol_scheme">fb948217115759979</string>
+<string name="facebook_client_token">7c343934780b17c676421462d5768035</string>     -->
+
+</resources>
